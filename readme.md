@@ -60,24 +60,6 @@ chat-app/
 `npm install`
 `npm start`
 
-## ⚙️ Setup Instructions
-
-🔧 1. Build Docker Image
-`docker build -t flask-api:latest .`
-
-📦 2. Load Image into Minikube
-`minikube image load flask-api:latest`
-
-⎈ 3. Deploy via Helm
-`helm upgrade --install flask-api helm/flask-api`
-
-🌐 4. Access the API
-`minikube service flask-api --url`
-- Then open the URL in your browser.
-
-🛠️ Redeploy on Code Change
--Modify app.py, then run: 
-`./redeploy.bat`
 
 # 🔮 Future Ideas
 Feature                 	 Description
