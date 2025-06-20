@@ -3,14 +3,14 @@ A full-stack 1-on-1 chat app built using React, Node.js, Socket.IO, and MongoDB.
 
 ## 🚀 Features:-
 
--💬 Real-time private messaging using Socket.IO
--🧠 Chat history storage in MongoDB
--🟢 Online user list (auto-updates on connect/disconnect)
--⏱ Timestamped messages with proper formatting
--💻 Modern responsive UI with plain CSS
--🔄 Live user switching & dynamic chat reloading
--🐳 Docker support for production deployment
--🔒 .env support for secure config
+- 💬 Real-time private messaging using Socket.IO
+- 🧠 Chat history storage in MongoDB
+- 🟢 Online user list (auto-updates on connect/disconnect)
+- ⏱ Timestamped messages with proper formatting
+- 💻 Modern responsive UI with plain CSS
+- 🔄 Live user switching & dynamic chat reloading
+- 🐳 Docker support for production deployment
+- 🔒 .env support for secure config
 
 🛠 Tech Stack
 Frontend	Backend	      Real-Time	     Database
