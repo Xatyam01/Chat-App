@@ -46,12 +46,15 @@ chat-app/
 ⬇️ 1. Clone the Repository
 `git clone https://github.com/your-username/chat-app.git`
 `cd chat-app`
+
 🔧 2. Backend Setup
 `cd backend`
 `npm install`
+
 3. Create a .env file
 `echo "MONGO_URI=mongodb://localhost:27017/chatapp" > .env`
 `node index.js`
+
 🌐 4.  Frontend Setup
 `cd frontend`
 `npm install`
