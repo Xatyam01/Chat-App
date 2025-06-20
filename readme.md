@@ -12,9 +12,12 @@ A full-stack 1-on-1 chat app built using React, Node.js, Socket.IO, and MongoDB.
 - 🐳 Docker support for production deployment
 - 🔒 .env support for secure config
 
-🛠 Tech Stack
-Frontend	Backend	      Real-Time	     Database
-⚛ React	   🟩 Node.js	⚡ Socket.IO	  🍃 MongoDB
+# 🛠 Tech Stack
+- Frontend	-> ⚛ React	
+- Backend	 -> 🟩 Node.js  
+- Real-Time->⚡ Socket.IO    
+- Database ->🍃 MongoDB
+   		  
 
 📁 Project Structure
 
