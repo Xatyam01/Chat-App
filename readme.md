@@ -36,25 +36,25 @@ chat-app/
 
 ```
 
-⚙️ Prerequisites
-Node.js (v16 or higher)
-MongoDB (Local or Atlas)
-Docker (optional, for containerized deploy)
+# ⚙️ Prerequisites
+- Node.js (v16 or higher)
+- MongoDB (Local or Atlas)
+- Docker (optional, for containerized deploy)
 
-📦 Local Setup Instructions
+# 📦 Local Setup Instructions
 ⬇️ Clone the Repository
-git clone https://github.com/your-username/chat-app.git
-cd chat-app
+`git clone https://github.com/your-username/chat-app.git`
+`cd chat-app`
 🔧 Backend Setup
-cd backend
-npm install
+`cd backend`
+`npm install`
 # Create a .env file
-echo "MONGO_URI=mongodb://localhost:27017/chatapp" > .env
-node index.js
+`echo "MONGO_URI=mongodb://localhost:27017/chatapp" > .env`
+`node index.js`
 🌐 Frontend Setup
-cd ../frontend
-npm install
-npm start
+`cd frontend`
+`npm install`
+`npm start`
 
 🔮 Future Ideas
 Feature                 	 Description
