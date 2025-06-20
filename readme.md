@@ -1,7 +1,7 @@
-📦 Real-Time Chat App 💬
+ # 📦 Real-Time Chat App 💬
 A full-stack 1-on-1 chat app built using React, Node.js, Socket.IO, and MongoDB. This modern web app supports real-time private messaging, live online user tracking, and persistent chat history — all designed for scalability and clean user experience.
 
-🚀 Features:-
+## 🚀 Features:-
 
 💬 Real-time private messaging using Socket.IO
 🧠 Chat history storage in MongoDB
