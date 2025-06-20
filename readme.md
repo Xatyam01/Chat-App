@@ -42,28 +42,28 @@ chat-app/
 - Docker (optional, for containerized deploy)
 
 # 📦 Local Setup Instructions
-⬇️ Clone the Repository
+⬇️ 1. Clone the Repository
 `git clone https://github.com/your-username/chat-app.git`
 `cd chat-app`
-🔧 Backend Setup
+🔧 2. Backend Setup
 `cd backend`
 `npm install`
-# Create a .env file
+3. Create a .env file
 `echo "MONGO_URI=mongodb://localhost:27017/chatapp" > .env`
 `node index.js`
-🌐 Frontend Setup
+🌐 4.  Frontend Setup
 `cd frontend`
 `npm install`
 `npm start`
 
-🔮 Future Ideas
+# 🔮 Future Ideas
 Feature                 	 Description
-🔐 JWT/Firebase Auth	    Add login/signup for real users
-🧑‍🤝‍🧑 Group Chats	          Chat rooms or group messaging
-📷 Media Sharing	        Image/file upload and display
-🔔 Notifications	        In-app or push notifications
-✍️ Typing Indicator	        See when someone is typing
-🌙 Dark Mode	            Toggleable dark/light theme
-📊 Admin Panel	            Monitor active users, messages
-📲 Mobile Responsive	    Optimized UI for phones
-🚀 Deployment	            Auto-deploy via AWS/GCP/Render
+- 🔐 JWT/Firebase Auth	    Add login/signup for real users
+- 🧑‍🤝‍🧑 Group Chats	          Chat rooms or group messaging
+- 📷 Media Sharing	        Image/file upload and display
+- 🔔 Notifications	        In-app or push notifications
+- ✍️ Typing Indicator	        See when someone is typing
+- 🌙 Dark Mode	            Toggleable dark/light theme
+- 📊 Admin Panel	            Monitor active users, messages
+- 📲 Mobile Responsive	    Optimized UI for phones
+- 🚀 Deployment	            Auto-deploy via AWS/GCP/Render
