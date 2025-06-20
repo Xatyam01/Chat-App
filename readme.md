@@ -41,7 +41,7 @@ chat-app/
 - MongoDB (Local or Atlas)
 - Docker (optional, for containerized deploy)
 
-# 📦 Local Setup Instructions
+## 📦 Local Setup Instructions
 ⬇️ 1. Clone the Repository
 `git clone https://github.com/your-username/chat-app.git`
 `cd chat-app`
