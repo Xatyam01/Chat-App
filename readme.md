@@ -19,8 +19,8 @@ A full-stack 1-on-1 chat app built using React, Node.js, Socket.IO, and MongoDB.
 - Database ->🍃 MongoDB
    		  
 
-📁 Project Structure
-
+# 📁 Project Structure
+```
 chat-app/
 ├── backend/               # Node.js + Express + MongoDB
 │   ├── index.js
@@ -34,7 +34,7 @@ chat-app/
 ├── .gitignore
 ├── README.md
 
-
+```
 
 ⚙️ Prerequisites
 Node.js (v16 or higher)
